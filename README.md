@@ -8,7 +8,7 @@ The only one who can save it is Santa Claus. In order to do that, he must find t
 <hr/>
 <h2>Short summary</h2>
 
-This is a Virtual Reality game that is constisted of 3 levels (rooms). 
+This is a Virtual Reality game that is consisted of 3 levels (rooms). 
 
 <ul>
   <li>First room: The world of Harry Potter</li>
