@@ -2,7 +2,7 @@
 <hr/>
 <h2>Introduction</h2>
 
-The world of fantasy is under attack by the GIU (Grinch's Internationail Union).
+The world of fantasy is under attack by the GIU (Grinch's International Union).
 The only one who can save it is Santa Claus. In order to do that, he must find the bomb hidden in a small house, before it explodes and wipes out the fantasy from our entire universe. He must go through each room in the house and find the hidden clues, that would lead him one step closer to the bomb. 
 
 <hr/>
