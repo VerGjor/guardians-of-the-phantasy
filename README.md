@@ -12,7 +12,7 @@ This is a Virtual Reality game that is consisted of 3 levels (rooms).
 
 <ul>
   <li>First room: The world of Harry Potter</li>
-  ![alt text](https://github.com/VerGjor/guardians-of-the-phantasy/blob/main/Assets/In-Game/46511257_201485330775020_2040284580006592512_n.jpg?raw=true)
+  <img src='https://github.com/VerGjor/guardians-of-the-phantasy/blob/main/Assets/In-Game/46511257_201485330775020_2040284580006592512_n.jpg?raw=true' />
   <li>Second room: The world of Star Wars</li>
   <li>Third room: The world of Doctor Who</li>
 </ul>
