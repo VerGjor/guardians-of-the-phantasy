@@ -12,9 +12,11 @@ This is a Virtual Reality game that is consisted of 3 levels (rooms).
 
 <ul>
   <li>First room: The world of Harry Potter</li>
-  <img src='https://github.com/VerGjor/guardians-of-the-phantasy/blob/main/Assets/In-Game/46511257_201485330775020_2040284580006592512_n.jpg?raw=true' width='100px'/>
+  <img src='https://github.com/VerGjor/guardians-of-the-phantasy/blob/main/Assets/In-Game/46511257_201485330775020_2040284580006592512_n.jpg?raw=true' width='200px'/>
   <li>Second room: The world of Star Wars</li>
+  <img src='https://github.com/VerGjor/guardians-of-the-phantasy/blob/main/Assets/In-Game/30185414_1950343071645087_726376317_n.jpg?raw=true' width='200px'/>
   <li>Third room: The world of Doctor Who</li>
+  <img src='https://github.com/VerGjor/guardians-of-the-phantasy/blob/main/Assets/In-Game/50732308_389861765143266_2945909070369914880_n.png?raw=true' width='200px'/>
 </ul>
   
 The main story revolves around Santa (and that is you!) who needs act quickly to uncover the hidden codes in the rooms in order to stop the bomb. 
